@@ -4,6 +4,6 @@ In this episode series Ben creates a mini pinball machine portable for this year
 
 Visit the Ben Heck Community and Suggest a Build: http://ow.ly/NBsAJ
 
-Part 1: http://www.element14.com/community/docs/DOC-76788/l/episode-187-ben-heck-s-teensy-pinball-portable-part-1-episode?ICID=benheck-episodes-list
+Part 1: http://www.element14.com/community/docs/DOC-76788/l/episode-187-ben-heck-s-teensy-pinball-portable-part-1-episode
 
-Part 2: http://www.element14.com/community/docs/DOC-77092/l/episode-189-ben-hecks-teensy-pinball-portable-part-2-episode?ICID=benheck-episodes-list
+Part 2: http://www.element14.com/community/docs/DOC-77092/l/episode-189-ben-hecks-teensy-pinball-portable-part-2-episode
